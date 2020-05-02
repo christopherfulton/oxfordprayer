@@ -646,7 +646,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
    Name="Smart Link"/>
  </w:LatentStyles>
 </xml><![endif]-->
-<style>
 <!--
  /* Font Definitions */
  @font-face
@@ -715,7 +714,6 @@ p
 div.WordSection1
 	{page:WordSection1;}
 -->
-</style>
 <!--[if gte mso 10]>
 <style>
  /* Style Definitions */
